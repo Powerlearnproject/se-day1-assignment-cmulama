@@ -47,6 +47,7 @@ Software developers design, program, deploy and maintain software using differen
 Quality assurance engineer prevents defects in a code
 Project manager analyze project constraints, coordinates internal and external teams
 
+
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Importance of IDEs
 Code Editor: It offers advanced features like syntax highlighting, code completion, and error detection, making coding faster and less error-prone.
